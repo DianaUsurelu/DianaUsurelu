@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DianaUsurelu
+- 👀 I’m interested in banking and IT
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me diannusurelu@gmail.com
